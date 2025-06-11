@@ -1,3 +1,9 @@
+#content {
+    align-items: center;
+    justify-content: center;
+    justify-items: center;
+}
+
 #home-banner-image {
     display: block;
     margin: auto;
